@@ -12,8 +12,12 @@
 </p>
 
 ## Languages and Tools
+<p align="left">
+    <a href="https://example.com">
+        <img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,nodejs,laravel,codeigniter,mysql,reactjs,nextjs" alt="Skill Icons">
+    </a>
+</p>
 
-<p align="left"> <a href=""><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,nodejs,laravel,codeigniter,mysql,reactjs,nextjs"> </a> </p>
 
 ## My Stats:
 <p align="center">
