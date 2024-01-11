@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://github.com/TheRaccoon-Black">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theraccoon-black&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=theraccoon-black&theme=dark&hide_border=true&stroke=f53b3b](https://github-readme-streak-stats.herokuapp.com/?user=theraccoon-black&theme=dark&hide_border=true&stroke=f53b3b)https://github-readme-streak-stats.herokuapp.com/?user=theraccoon-black&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
