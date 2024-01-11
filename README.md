@@ -27,7 +27,5 @@
 ## Activity On GitHub
 
 <p align="center">
-  <a href="https://github.com/TheRaccoon-Black">      
-<img title="stats" alt="streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=theraccoon-black&theme=dark&hide_border=true&stroke=f53b3b](https://github-readme-streak-stats.herokuapp.com/?user=theraccoon-black&theme=dark&hide_border=true&stroke=f53b3b)https://github-readme-streak-stats.herokuapp.com/?user=theraccoon-black&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheRaccoon-Black&theme=dracula&border_radius=5.6" alt="GitHub Streak" /></a>
 </p>
