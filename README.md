@@ -14,7 +14,7 @@
 ## Languages and Tools
 <p align="left">
     <a href="https://example.com">
-        <img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,nodejs,laravel,codeigniter,mysql,reactjs,nextjs" alt="Skill Icons">
+        <img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,nodejs,laravel,python,mysql,reactjs,php" alt="Skill Icons">
     </a>
 </p>
 
