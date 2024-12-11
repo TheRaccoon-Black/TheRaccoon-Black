@@ -27,5 +27,5 @@
 ## Activity On GitHub
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheRaccoon-Black&theme=dracula&border_radius=5.6" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheRaccoon-Black" alt="GitHub Streak" /></a>
 </p>
