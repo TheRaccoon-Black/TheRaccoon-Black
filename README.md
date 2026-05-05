@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fachrurrozi</h1>
+<h1 align="center">Hi , I'm Muhammad Fachrurrozi</h1>
 <h3 align="center">Ho ho ho ho</h3>
 
 <p align="left"> 
@@ -9,7 +9,7 @@
 
 
 ## About Me
-I am a student with an interest in software development and technology.  
+I am a person with an interest in software development and technology.  
 I enjoy learning by building projects and exploring new concepts step by step.
 
 
